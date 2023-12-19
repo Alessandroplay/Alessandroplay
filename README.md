@@ -3,8 +3,8 @@
 ✨ Hi, I’m Alessandroplay.✨ I am a full stack web & Mobile developer.<br/>
 I have `8+` years of experience in **React, Angular, Vue.js, TypeScript, Nodejs** and also have `6+` years of experience in **Laravel, ASP.NET, Django, MySQL, Redis, React Native, Swift**. And I have also `3+` years of experience in **Web3js, solidity, and smart contracts**. <br/> 
 I am effective in strong communication skills while staying organized and remaining creatively active with projects.<br/>
-I have excellent communication and collaboration skills, and I am comfortable working as part of a team or independently. I am also proficient in using tools such as Git, Slack, and Zoom. I am fluent in English and can communicate effectively with clients and stakeholders. I am also reliable, punctual, and flexible, and I always deliver high-quality work on time and within budget.<br/>
-I am available for 40 hours per week and can start working on your projects immediately. My hourly rate is $40, but I am open to negotiation depending on the scope and complexity of the work.<br/> 
+I have excellent communication and collaboration skills, and I am comfortable working as part of a team or independently. I am also proficient in using tools such as **Git, Slack, and Zoom**. I am fluent in English and can communicate effectively with clients and stakeholders. I am also reliable, punctual, and flexible, and I always deliver high-quality work on time and within budget.<br/>
+I am available for **40 hours per week** and can start working on your projects immediately. My hourly rate is **$50**, but I am open to negotiation depending on the scope and complexity of the work.<br/> 
 Best regards.<br/> 
 Thank you.<br/> 
 
